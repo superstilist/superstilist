@@ -35,9 +35,22 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1icebest1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=1icebest1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img align="left" height="500" src="https://media1.tenor.com/m/IVwfYU3xa6kAAAAC/megumin-absolute-cinema.gif"  />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="100" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://cdn.pixabay.com/animation/2025/04/05/10/44/10-44-27-197_512.gif"  />
 </div>
 
 ###
