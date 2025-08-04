@@ -22,12 +22,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/1225855602014818408" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=flat" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=flat" height="50" alt="discord logo"  />
   </a>
   <a href="https://t.me/lIcebest" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=black&labelColor=&style=flat" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=black&labelColor=&style=flat" height="50" alt="telegram logo"  />
   </a>
 </div>
 
@@ -36,16 +36,6 @@
 <br clear="both">
 
 <img align="left" height="500" src="https://media1.tenor.com/m/IVwfYU3xa6kAAAAC/megumin-absolute-cinema.gif"  />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="100" alt="github logo"  />
-</div>
 
 ###
 
